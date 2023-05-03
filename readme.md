@@ -12,10 +12,9 @@ Took about 7-8 Hours Building it.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me]()
+[Click me](https://enchanting-druid-cdb8f2.netlify.app/)
 
 ### Screenshots
-___
 
 ![ss1](./images/Screenshot%202023-05-03%20at%202.57.17%20PM.png)
 
